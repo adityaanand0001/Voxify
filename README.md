@@ -25,9 +25,9 @@
 
 ---
 
-# 🤖 Voxify Voice AI — The Autonomous Voice Sales Agent
+# 🤖 Voxify Agentic Voice AI — The Autonomous Voice Sales Agent
 
-**Voxify Voice AI is not a chatbot. It's not a demo. It's an AI agent that makes real sales calls, thinks on its feet, and books meetings — completely autonomously.**
+**Voxify Agentic Voice AI is not a chatbot. It's not a demo. It's an AI agent that makes real sales calls, thinks on its feet, and books meetings — completely autonomously.**
 
 > An **AI agent** perceives, reasons, decides, and acts. Voxify does all four — over a live phone call, in real time. It listens through Whisper, reasons through Gemini + LangGraph, scores every lead on a 6-factor model, generates natural responses, and speaks through ElevenLabs. Every decision is its own.
 
@@ -157,7 +157,7 @@ All objection responses live in `config/business_context.py` — change them wit
 
 ```bash
 # Clone
-git clone https://github.com/adityaanand0001/Voxify-Voice-AI.git
+git clone https://github.com/adityaanand0001/Voxify-Agentic-Voice-AI.git
 cd Voxify
 
 # Install
@@ -354,7 +354,7 @@ class BusinessContext:
   <p>
     <sub>
       Built with LangGraph + Gemini + ElevenLabs + Twilio + Supabase<br>
-      MIT License · <a href="https://github.com/adityaanand0001/Voxify-Voice-AI"><b>github.com/adityaanand0001/Voxify-Voice-AI</b></a>
+      MIT License · <a href="https://github.com/adityaanand0001/Voxify-Agentic-Voice-AI"><b>github.com/adityaanand0001/Voxify-Agentic-Voice-AI</b></a>
     </sub>
   </p>
 </div>
